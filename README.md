@@ -5,7 +5,7 @@
 ### Group members
 | Student name | Student ID |
 | --- | --- |
-| #NAME# | #ID# |
+| Mikkel Teglers Gjørtsvang | 152384 |
 | #NAME# | #ID# |
 | #NAME# | #ID# |
 
